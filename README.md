@@ -15,3 +15,5 @@ Execução dos testes
 ```
 ./vendor/bin/phpunit tests
  ```
+
+[![Build Status](https://travis-ci.org/shahroznawaz/php-notifications.svg?branch=main)](https://travis-ci.com/github/kayobruno/test-training)
